@@ -30,8 +30,6 @@ class WeatherViewController: UIViewController{
         searchTextField.delegate = self
         weatherManager.delegate = self
     }
-    //This is the API Key for Open Weather
-    //API = e5cf6ea74c5cdb4ac0decb93e48de71d
     
     //Location Pressed Action
     @IBAction func locationPressed(_ sender: UIButton) {
@@ -103,7 +101,6 @@ extension WeatherViewController: WeatherManagerDelegate{
 extension WeatherViewController: CLLocationManagerDelegate{
     //Used to Detech the current Location
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        print("I did it")
         if let location = locations.last{
             locationManager.stopUpdatingLocation()
             let lat = location.coordinate.latitude

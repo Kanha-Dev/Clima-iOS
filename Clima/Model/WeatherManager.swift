@@ -13,11 +13,13 @@ protocol WeatherManagerDelegate {
     func didUpdateWeather(_ weatherManager: WeatherManager, weather: WeatherModel)
     func didFailedWithError(error: Error)
 }
+//Use your own API KEY here
+let apikey = ProcessInfo.processInfo.environment["OPENWEATHERAPIKEY"]
 
 //Structure for Weather Manager
 struct WeatherManager {
     //Default String that we get from Open Weather
-    let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=e5cf6ea74c5cdb4ac0decb93e48de71d&units=metric"
+    let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=\(apikey!)&units=metric"
     
     //Delegate Variable if any class wants to trigger it
     var delegate: WeatherManagerDelegate?
