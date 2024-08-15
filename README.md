@@ -52,7 +52,8 @@ Build and run the app on a simulator or a real device.
 
 *Home Screen: Displays current weather information.*
 
-![Dark Mode](screenshots/dark_mode.png)
+![dark_mode](https://github.com/user-attachments/assets/979e0732-8829-4c58-b2e8-7dfcba4d9ae9)
+
 *Dark Mode: Displays current weather information in dark mode.*
 
 ## Contributing
