@@ -46,22 +46,21 @@ Build and run the app on a simulator or a real device.
 - The current weather for the user’s location will be displayed.
 - Users can also search for weather information in different cities using the search bar.
 
-## Screenshots
-
-![home_screen](https://github.com/user-attachments/assets/d2f1c5a9-e9e1-4dcf-be7a-3329619ed652)
-
-*Home Screen: Displays current weather information.*
-
-![dark_mode](https://github.com/user-attachments/assets/979e0732-8829-4c58-b2e8-7dfcba4d9ae9)
-
-*Dark Mode: Displays current weather information in dark mode.*
+ 
 
 ### Responsive Image Grid
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-    <img src="Screenshots/home_screen.png" alt="Home Screen" style="width: 48%;"/>
-    <img src="Screenshots/dark_mode.png" alt="Location Screen" style="width: 48%;"/>
+    <div style="text-align: center;">
+        <img src="Screenshots/home_screen.png" alt="Home Screen" title="Home Screen" style="width: 48%;"/>
+        <p>Home Screen: Displays the current weather at the user's location.</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="Screenshots/dark_mode.png" alt="Dark Mode Screen" title="Dark Mode Screen" style="width: 48%;"/>
+        <p>Dark Mode Screen: Showcases the app in dark mode with weather details.</p>
+    </div>
 </div>
+
 
 ## Contributing
 If you wish to contribute to the development of this app, please fork the repository and create a pull request. Contributions are welcome!
