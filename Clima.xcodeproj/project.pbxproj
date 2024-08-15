@@ -53,7 +53,6 @@
 			isa = PBXGroup;
 			children = (
 				ADAA27CD231BC87F00365194 /* README.md */,
-				DFDC300F2C6E518400D4C8CF /* Screenshots */,
 				ADAA27AF231BBFAF00365194 /* Clima */,
 				ADAA27AE231BBFAF00365194 /* Products */,
 			);
@@ -98,13 +97,6 @@
 				ADAA27B6231BBFAF00365194 /* Main.storyboard */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		DFDC300F2C6E518400D4C8CF /* Screenshots */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		DFEF2A442C3002D800C72C05 /* Model */ = {
