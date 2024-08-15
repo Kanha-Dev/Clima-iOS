@@ -1,4 +1,4 @@
-
+ 
 # Weather Forecast App
 
 ## Overview
@@ -55,6 +55,13 @@ Build and run the app on a simulator or a real device.
 ![dark_mode](https://github.com/user-attachments/assets/979e0732-8829-4c58-b2e8-7dfcba4d9ae9)
 
 *Dark Mode: Displays current weather information in dark mode.*
+
+### Responsive Image Grid
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+    <img src="screenshots/home_screen.png" alt="Home Screen" style="width: 48%;"/>
+    <img src="screenshots/dark_mode.png" alt="Location Screen" style="width: 48%;"/>
+</div>
 
 ## Contributing
 If you wish to contribute to the development of this app, please fork the repository and create a pull request. Contributions are welcome!
