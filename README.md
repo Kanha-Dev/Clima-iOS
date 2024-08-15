@@ -48,8 +48,9 @@ Build and run the app on a simulator or a real device.
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-*Home Screen: Displays current weather information.*
+![Home Screen]([screenshots/home_screen.png](https://github.com/user-attachments/assets/99b41ebd-8d24-48a9-af6d-1025b3eb0681))
+*Home Screen: Displays current weather information.
+*
 
 ![Dark Mode](screenshots/dark_mode.png)
 *Dark Mode: Displays current weather information in dark mode.*
