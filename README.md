@@ -51,14 +51,8 @@ Build and run the app on a simulator or a real device.
 ### Responsive Image Grid
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-    <div style="text-align: center;">
-        <img src="Screenshots/home_screen.png" alt="Home Screen" title="Home Screen" style="width: 48%;"/>
-        <p>Home Screen: Displays the current weather at the user's location.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="Screenshots/dark_mode.png" alt="Dark Mode Screen" title="Dark Mode Screen" style="width: 48%;"/>
-        <p>Dark Mode Screen: Showcases the app in dark mode with weather details.</p>
-    </div>
+    <img src="Screenshots/home_screen.png" alt="Home Screen" title="Home Screen" style="width: 48%;"/>
+    <img src="Screenshots/dark_mode.png" alt="Dark Mode Screen" title="Dark Mode Screen" style="width: 48%;"/>
 </div>
 
 
