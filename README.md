@@ -59,8 +59,8 @@ Build and run the app on a simulator or a real device.
 ### Responsive Image Grid
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-    <img src="screenshots/home_screen.png" alt="Home Screen" style="width: 48%;"/>
-    <img src="screenshots/dark_mode.png" alt="Location Screen" style="width: 48%;"/>
+    <img src="Screenshots/home_screen.png" alt="Home Screen" style="width: 48%;"/>
+    <img src="Screenshots/dark_mode.png" alt="Location Screen" style="width: 48%;"/>
 </div>
 
 ## Contributing
