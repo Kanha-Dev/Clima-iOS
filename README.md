@@ -22,7 +22,7 @@ The Weather Forecast App is an iOS application designed to provide users with ac
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/weather-forecast-app.git
+git clone https://github.com/Kanha-Dev/Clima-iOS.git
 ```
 
 ### Open the Project:
@@ -48,7 +48,7 @@ Build and run the app on a simulator or a real device.
 
  
 
-### Responsive Image Grid
+### Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
     <img src="Screenshots/home_screen.png" alt="Home Screen" title="Home Screen" style="width: 48%;"/>
